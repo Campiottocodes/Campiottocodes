@@ -1,19 +1,62 @@
-# 💫 About Me:
-I am currently studying and developing small projects in JavaScript.<br>I have an open heart to learn and help in any way possible, collaborating on a project or even clarifying any doubts.
+# Vinícius Campiotto
 
+Technical Support Intern  
+Focused on infrastructure, networking, and system troubleshooting, with a strong interest in cybersecurity
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-campiotto-421233250/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Campiottocodes&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Campiottocodes&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Campiottocodes&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Campiottocodes&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+📍 Brazil  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Campiottocodes&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## About
+
+I am a **Technical Support Intern** transitioning into IT Infrastructure, with a strong interest in **cybersecurity and operational security**.
+
+My practice is centered on real-world support scenarios commonly found in enterprise IT environments, including system diagnostics, incident analysis, and structured problem resolution, always with a **security-aware mindset**.
+
+---
+
+## Technical Focus
+
+- **Networking:** TCP/IP fundamentals, routing and switching basics, diagnostics and troubleshooting  
+- **Linux:** system analysis, logs, services, permissions, disk usage, and performance issues  
+- **Databases:** PostgreSQL queries, maintenance routines, backup and restore operations  
+- **Security Foundations:** access control, basic log analysis, system hardening concepts  
+- **Automation:** basic scripting and operational checklists  
+- **Web Fundamentals:** JavaScript, HTML, CSS (project-based learning)
+
+---
+
+## Featured Repositories
+
+- 🔧 **Networking Labs** – diagnostic-focused scenarios  
+- 🐧 **Linux Troubleshooting Labs** – real support case simulations  
+- 🗄️ **PostgreSQL Practice** – operational queries and maintenance tasks  
+- 🔐 **Security-Oriented Labs** – foundational security exercises and log analysis  
+- 💻 **Web Projects** – small, documented applications with live demos
+
+---
+
+## Work Approach
+
+- Incident-driven learning
+- Security-aware troubleshooting
+- Clear documentation
+- Reproducible processes
+- Clean commit history
+- Continuous improvement
+
+---
+
+## Goals
+
+- Build solid experience as a **Technical Support professional**
+- Strengthen foundations in **infrastructure security and monitoring**
+- Progress toward cybersecurity-related roles over time
+
+---
+
+## Contact
+
+🔗 LinkedIn: <https://www.linkedin.com/in/vinicius-campiotto-421233250/>  
+📧 Email: <viniciusjcampiotto@gmail.com>
+
