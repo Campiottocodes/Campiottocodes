@@ -1,62 +1,70 @@
-# Vinícius Campiotto
+# Olá, eu sou Vinícius Campiotto
 
-Technical Support Intern  
-Focused on infrastructure, networking, and system troubleshooting, with a strong interest in cybersecurity
-
-📍 Brazil  
+Estagiário de Suporte Técnico na Dígitro | Focado em Linux, Troubleshooting e evolução para Cibersegurança
 
 ---
 
-## About
+## Sobre mim
 
-I am a **Technical Support Intern** transitioning into IT Infrastructure, with a strong interest in **cybersecurity and operational security**.
+Hoje atuo diretamente com suporte técnico, lidando com problemas reais de ambiente, conectividade e sistemas.
 
-My practice is centered on real-world support scenarios commonly found in enterprise IT environments, including system diagnostics, incident analysis, and structured problem resolution, always with a **security-aware mindset**.
+Meu foco não é só aprender tecnologia — é **entender, diagnosticar e resolver problemas**.
 
----
+Estou construindo meu portfólio baseado em:
+- troubleshooting prático
+- análise de falhas reais
+- documentação técnica clara e objetiva
 
-## Technical Focus
-
-- **Networking:** TCP/IP fundamentals, routing and switching basics, diagnostics and troubleshooting  
-- **Linux:** system analysis, logs, services, permissions, disk usage, and performance issues  
-- **Databases:** PostgreSQL queries, maintenance routines, backup and restore operations  
-- **Security Foundations:** access control, basic log analysis, system hardening concepts  
-- **Automation:** basic scripting and operational checklists  
-- **Web Fundamentals:** JavaScript, HTML, CSS (project-based learning)
+Meu objetivo é evoluir para áreas como **NOC/SOC**, me tornando um profissional capaz de analisar ambientes, identificar falhas rapidamente e atuar com segurança e confiabilidade.
 
 ---
 
-## Featured Repositories
+## O que você vai encontrar aqui
 
-- 🔧 **Networking Labs** – diagnostic-focused scenarios  
-- 🐧 **Linux Troubleshooting Labs** – real support case simulations  
-- 🗄️ **PostgreSQL Practice** – operational queries and maintenance tasks  
-- 🔐 **Security-Oriented Labs** – foundational security exercises and log analysis  
-- 💻 **Web Projects** – small, documented applications with live demos
+Este GitHub não é apenas um repositório de código.
 
----
+É um registro da minha evolução técnica.
 
-## Work Approach
+Aqui você vai ver:
 
-- Incident-driven learning
-- Security-aware troubleshooting
-- Clear documentation
-- Reproducible processes
-- Clean commit history
-- Continuous improvement
+- 🔧 Casos reais de troubleshooting (Linux, rede, serviços)
+- 🧠 Raciocínio técnico passo a passo
+- 📄 Documentações no padrão profissional (como em ambiente corporativo)
+- 🧪 Laboratórios práticos simulando cenários reais
+- 🚩 Writeups de CTF (OverTheWire, Bandit e outros)
 
 ---
 
-## Goals
+## Foco atual
 
-- Build solid experience as a **Technical Support professional**
-- Strengthen foundations in **infrastructure security and monitoring**
-- Progress toward cybersecurity-related roles over time
+- Troubleshooting em Linux
+- Redes e análise de conectividade
+- Diagnóstico de falhas (serviços, portas, NTP, etc)
+- Documentação técnica profissional
+- Fundamentos de Cibersegurança (Blue Team)
 
 ---
 
-## Contact
+## Próximos passos
 
-🔗 LinkedIn: <https://www.linkedin.com/in/vinicius-campiotto-421233250/>  
-📧 Email: <viniciusjcampiotto@gmail.com>
+- Estruturar playbooks de troubleshooting
+- Criar ambiente de laboratório (Wazuh, monitoramento, logs)
+- Evoluir para análise de eventos e segurança (SOC)
+- Expandir writeups de CTF com foco em raciocínio técnico
 
+---
+
+## Stack e ferramentas
+
+- Linux (Ubuntu / ambientes de servidor)
+- Bash
+- Redes (TCP/IP, DNS, portas, diagnóstico)
+- Git & GitHub
+- Ferramentas de troubleshooting (ping, traceroute, nmap, etc)
+
+---
+
+## Contato
+
+- LinkedIn:  
+  https://www.linkedin.com/in/vinicius-campiotto-421233250
