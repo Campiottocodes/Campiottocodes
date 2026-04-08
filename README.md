@@ -1,6 +1,6 @@
 # Olá, eu sou Vinícius Campiotto
 
-Estagiário de Suporte Técnico na Dígitro | Focado em Linux, Troubleshooting e evolução para Cibersegurança
+Estagiário de Suporte Técnico | Focado em Linux, Troubleshooting e evolução para Cibersegurança
 
 ---
 
